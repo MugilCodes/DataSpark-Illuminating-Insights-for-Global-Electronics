@@ -27,7 +27,7 @@ The project uses four core datasets:
 ##  Technologies & Tools
 
 - **Python** – For data cleaning and preprocessing (`pandas`, `numpy`, `matplotlib`)
-- **SQL** – For relational database storage and querying (PostgreSQL or SQLite)
+- **SQL** – For relational database storage and querying (MySQL)
 - **Power BI** – For dashboard creation and interactive data visualization
 - **Visual Studio Code** – For documenting analysis steps
 - **Git** – Version control
@@ -36,7 +36,7 @@ The project uses four core datasets:
 
 ##  Data Cleaning Steps
 
-Performed using Python in `data_cleaning.py` and Jupyter:
+Performed using Python in `EDA_Analysis.ipynb` and VSCode:
 
 - Removed duplicates and null values
 - Standardized date formats and column names
@@ -79,7 +79,7 @@ Microsoft Power BI
 
 Python contributors and library authors
 
-Author
+Author:
 Mugil
 
 Data Science Student | SQL | Python | Power BI
