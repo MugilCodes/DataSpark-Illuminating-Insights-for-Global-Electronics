@@ -81,8 +81,12 @@ Python contributors and library authors
 
 Author
 Mugil
+
 Data Science Student | SQL | Python | Power BI
+
+Linkedin:
 www.linkedin.com/in/mugilkv
-MugilCodes -github
+Github:
+MugilCodes 
 
 
